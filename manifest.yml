@@ -1,7 +1,7 @@
 ---
   applications:
-   - name: referencia-api-01
-     host: referencia-api-01
-     path: target/referencia-api-01.war
+   - name: referencia-api-02
+     host: referencia-api-02
+     path: target/referencia-api-02.war
      memory: 512M
      instances: 1
