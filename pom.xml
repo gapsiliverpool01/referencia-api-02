@@ -10,7 +10,7 @@
     <name>apireferencia</name>
 
     <build>
-        <finalName>apireferencia</finalName>
+        <finalName>referencia-api-02</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
